@@ -1,0 +1,12 @@
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.1\linux-x64\samplewebapp
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.1\linux-x64\samplewebapp.deps.json
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.1\linux-x64\samplewebapp.runtimeconfig.json
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.1\linux-x64\samplewebapp.runtimeconfig.dev.json
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.1\linux-x64\samplewebapp.dll
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.1\linux-x64\samplewebapp.pdb
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.1\linux-x64\samplewebapp.csprojAssemblyReference.cache
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.1\linux-x64\samplewebapp.csproj.CoreCompileInputs.cache
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.1\linux-x64\samplewebapp.AssemblyInfoInputs.cache
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.1\linux-x64\samplewebapp.AssemblyInfo.cs
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.1\linux-x64\samplewebapp.dll
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.1\linux-x64\samplewebapp.pdb

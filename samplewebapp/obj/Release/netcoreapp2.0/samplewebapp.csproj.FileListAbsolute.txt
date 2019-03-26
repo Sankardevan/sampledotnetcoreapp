@@ -1,0 +1,11 @@
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.0\samplewebapp.deps.json
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.0\samplewebapp.runtimeconfig.json
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.0\samplewebapp.runtimeconfig.dev.json
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.0\samplewebapp.dll
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\bin\Release\netcoreapp2.0\samplewebapp.pdb
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.0\samplewebapp.csprojAssemblyReference.cache
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.0\samplewebapp.csproj.CoreCompileInputs.cache
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.0\samplewebapp.AssemblyInfoInputs.cache
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.0\samplewebapp.AssemblyInfo.cs
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.0\samplewebapp.dll
+C:\Users\Sankar\source\repos\samplewebapp\samplewebapp\obj\Release\netcoreapp2.0\samplewebapp.pdb
